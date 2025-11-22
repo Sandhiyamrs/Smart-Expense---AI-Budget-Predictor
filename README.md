@@ -61,28 +61,25 @@ Predicts:
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
-[(image Home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Home.jpg)
+[(image Home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Smart-Expense---AI-Budget-Predictor/main/assets/Home.jpg)
 
-### ⚙ About Page
-[(image About.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/About.jpg)
+### ⚙ Daily-Trends Page
+[(image Daily-Trends.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Smart-Expense---AI-Budget-Predictor/main/assets/Daily-Trends.jpg)
 
-### 🎨 Login Page
-[(image Login.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Login.jpg)
+### 🎨 Category-Distribution Page
+[(image Category-Distribution.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Smart-Expense---AI-Budget-Predictor/main/assets/Category-Distribution.jpg)
 
-### ⚙ Start Page
-[(image Start.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Start.jpg)
+### ⚙ Budget-Prediction Page
+[(image Budget-Prediction.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Smart-Expense---AI-Budget-Predictor/main/assets/Budget-Prediction.jpg)
 
-### ⚙ Topics Page
-[(image Topics.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Topics.jpg)
+### ⚙ Recommendations Page
+[(image Recommendations.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Smart-Expense---AI-Budget-Predictor/main/assets/Recommendations.jpg)
 
-### ⚙ Test Page
-[(image Test.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Test.jpg)
+### ⚙ Upload-Expenses Page
+[(image Upload-Expenses.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Smart-Expense---AI-Budget-Predictor/main/assets/Upload-Expenses.jpg)
 
-### ⚙ Test-Result Page
-[(image Test-Result.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Test-Result.jpg)
-
-### ⚙ Rewards Page
-[(image Rewards.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Rewards.jpg)
+### ⚙ Parsed-Expenses Page
+[(imageParsed-Expenses.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Smart-Expense---AI-Budget-Predictor/main/assets/Parsed-Expenses.jpg)
 
 ---
 
