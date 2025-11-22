@@ -58,6 +58,34 @@ Predicts:
 
 ---
 
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+[(image Home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Home.jpg)
+
+### ⚙ About Page
+[(image About.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/About.jpg)
+
+### 🎨 Login Page
+[(image Login.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Login.jpg)
+
+### ⚙ Start Page
+[(image Start.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Start.jpg)
+
+### ⚙ Topics Page
+[(image Topics.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Topics.jpg)
+
+### ⚙ Test Page
+[(image Test.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Test.jpg)
+
+### ⚙ Test-Result Page
+[(image Test-Result.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Test-Result.jpg)
+
+### ⚙ Rewards Page
+[(image Rewards.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Rewards.jpg)
+
+---
+
 ## 🏗️ Tech Stack
 
 ### **Frontend**
@@ -70,36 +98,5 @@ Predicts:
 ### **Backend (Future)**
 - Python + FastAPI  
 - ML forecasting models (Prophet / Linear Regression)  
-
----
-
-## 📁 Folder Structure
-SmartExpense/
-├── src/
-│ ├── components/
-│ │ ├── FileUpload.jsx
-│ │ ├── SummaryCard.jsx
-│ │ ├── TrendChart.jsx
-│ │ ├── MonthlyBarChart.jsx
-│ │ ├── CategoryPie.jsx
-│ │ ├── PredictionAlert.jsx
-│ │ ├── RiskLevelIndicator.jsx
-│ │ ├── RecommendationCard.jsx
-│ │ ├── Navbar.jsx
-│ │ └── Loader.jsx
-│ ├── pages/
-│ │ ├── Dashboard.jsx
-│ │ ├── Prediction.jsx
-│ │ └── Upload.jsx
-│ ├── utils/
-│ │ ├── parseLogs.js
-│ │ ├── categorize.js
-│ │ ├── predict.js
-│ │ └── storage.js
-│ ├── App.jsx
-│ └── main.jsx
-├── public/
-├── package.json
-└── README.md
 
 ---
