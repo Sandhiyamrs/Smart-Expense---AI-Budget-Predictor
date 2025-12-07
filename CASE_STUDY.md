@@ -102,7 +102,7 @@ The app uses:
 ![Home](https://raw.githubusercontent.com/Sandhiyamrs/Smart-Expense---AI-Budget-Predictor/main/assets/Home.jpg)
 
 ### 📈 Daily Trends  
-![Daily Trends](https://raw.githubusercontent.com/Sandhiyamrs/Smart-Expense---AI-Budget-Predictor/main/assets/Daily-Trends.jpg)
+![Daily Trends](https://raw.githubusercontent.com/Sandhiyamrs/Smart-Expense---AI-Budget-Predictor/main/assets/Daily Trends.jpg)
 
 ### 🎨 Category Distribution  
 ![Category Distribution](https://raw.githubusercontent.com/Sandhiyamrs/Smart-Expense---AI-Budget-Predictor/main/assets/Category-Distribution.jpg)
