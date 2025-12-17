@@ -18,46 +18,6 @@ The UI is fully responsive, futuristic, and built with a glassmorphism theme.
 
 ---
 
-## 🌟 Features
-
-### ✅ **1. File Upload & Parsing**
-- Upload `.txt`, `.csv`, or `.json` bank SMS logs  
-- Extract expenses, categories, dates  
-- Fast client-side parsing  
-
-### ✅ **2. Smart Categorization**
-Automatically detects categories such as:
-- Food  
-- Travel  
-- Shopping  
-- Bills  
-- Miscellaneous  
-
-### ✅ **3. Trend Visualizations**
-Beautiful charts using **Recharts**:
-- Line chart → daily spending  
-- Bar chart → monthly comparison  
-- Pie chart → category distribution  
-
-### ✅ **4. Budget Prediction**
-Predicts:
-- Overspending date  
-- Risk level (Low / Medium / High)  
-- Financial health score  
-
-### ✅ **5. Interactive Dashboard**
-- Animated summary cards  
-- Alerts for exceeding daily average  
-- Real-time updates using state management  
-
-### ✅ **6. Elegant UI**
-- Glassmorphism design  
-- Neon accents  
-- Smooth animations  
-- Fully responsive  
-
----
-
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
@@ -100,6 +60,46 @@ Predicts:
 <p align="center">
   <img src="assets/Parsed-Expense.jpg" width="800"/>
 </p>
+
+---
+
+## 🌟 Features
+
+### ✅ **1. File Upload & Parsing**
+- Upload `.txt`, `.csv`, or `.json` bank SMS logs  
+- Extract expenses, categories, dates  
+- Fast client-side parsing  
+
+### ✅ **2. Smart Categorization**
+Automatically detects categories such as:
+- Food  
+- Travel  
+- Shopping  
+- Bills  
+- Miscellaneous  
+
+### ✅ **3. Trend Visualizations**
+Beautiful charts using **Recharts**:
+- Line chart → daily spending  
+- Bar chart → monthly comparison  
+- Pie chart → category distribution  
+
+### ✅ **4. Budget Prediction**
+Predicts:
+- Overspending date  
+- Risk level (Low / Medium / High)  
+- Financial health score  
+
+### ✅ **5. Interactive Dashboard**
+- Animated summary cards  
+- Alerts for exceeding daily average  
+- Real-time updates using state management  
+
+### ✅ **6. Elegant UI**
+- Glassmorphism design  
+- Neon accents  
+- Smooth animations  
+- Fully responsive  
 
 ---
 
