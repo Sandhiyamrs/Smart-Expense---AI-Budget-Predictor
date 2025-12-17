@@ -61,25 +61,45 @@ Predicts:
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
-[(image Home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Smart-Expense---AI-Budget-Predictor/main/assets/Home.jpg)
+<p align="center">
+  <img src="assets/Home.jpg" width="800"/>
+</p>
+
 
 ### ⚙ Daily-Trends Page
-[(image Daily-Trends.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Smart-Expense---AI-Budget-Predictor/main/assets/Daily-Trends.jpg)
+<p align="center">
+  <img src="assets/Daily-Trend.jpg" width="800"/>
+</p>
+
 
 ### 🎨 Category-Distribution Page
-[(image Category-Distribution.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Smart-Expense---AI-Budget-Predictor/main/assets/Category-Distribution.jpg)
+<p align="center">
+  <img src="assets/Category-Distribution.jpg" width="800"/>
+</p>
+
 
 ### ⚙ Budget-Prediction Page
-[(image Budget-Prediction.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Smart-Expense---AI-Budget-Predictor/main/assets/Budget-Prediction.jpg)
+<p align="center">
+  <img src="assets/Budget-Prediction.jpg" width="800"/>
+</p>
+
 
 ### ⚙ Recommendations Page
-[(image Recommendations.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Smart-Expense---AI-Budget-Predictor/main/assets/Recommendations.jpg)
+<p align="center">
+  <img src="assets/Recommendations.jpg" width="800"/>
+</p>
+
 
 ### ⚙ Upload-Expenses Page
-[(image Upload-Expenses.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Smart-Expense---AI-Budget-Predictor/main/assets/Upload-Expenses.jpg)
+<p align="center">
+  <img src="assets/Upload-Expenses.jpg" width="800"/>
+</p>
+
 
 ### ⚙ Parsed-Expenses Page
-[(imageParsed-Expenses.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Smart-Expense---AI-Budget-Predictor/main/assets/Parsed-Expenses.jpg)
+<p align="center">
+  <img src="assets/Parsed-Expense.jpg" width="800"/>
+</p>
 
 ---
 
