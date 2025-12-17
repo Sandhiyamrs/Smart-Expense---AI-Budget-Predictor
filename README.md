@@ -58,7 +58,7 @@ The UI is fully responsive, futuristic, and built with a glassmorphism theme.
 
 ### ⚙ Parsed-Expenses Page
 <p align="center">
-  <img src="assets/Parsed-Expense.jpg" width="800"/>
+  <img src="assets/Parsed-Expenses.jpg" width="800"/>
 </p>
 
 ---
